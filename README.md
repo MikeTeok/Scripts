@@ -1,5 +1,5 @@
 # Scripts
-# Description on how the scripts works
+Description on how the scripts works
 
 # dot_and_only_take_third_name.bat
 Objective: to rename the video file name to simple episode only
